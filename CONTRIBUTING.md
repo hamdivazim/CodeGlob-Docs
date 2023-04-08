@@ -44,11 +44,12 @@ These are the guidlines you need to follow when you contribute.
 ```
 If you cannot do this for any reason, mention so and why in the description when you are opening the pull request.
 - Always try to use the template (docs template coming soon!)
+- Try to add a hyperlink to this new page. Make sure to specify WHERE it is, and if you cannot add a hyperlink, mention so and we will add one where we think is best.
 
 ## Modifying Existing Pages
 ### Fixing Typos
 - If you are fixing a typo, mention so in the pull request description OR (more preferably) open an Issue on the [main CodeGlob repository](https://github.com/hamdivazim/CodeGlob).
-- ONLY modify what is necessary and DO NOT change anything else is you only intend to fix a typo.
+- ONLY modify what is necessary and DO NOT change anything else if you only intend to fix a typo.
 
 ### New Sections
 - This is when you are adding a new part to a specific topic. E.g. adding how to _edit_ snippets. This would be a new section under _Snippets_.
